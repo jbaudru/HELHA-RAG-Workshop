@@ -1,0 +1,7 @@
+faiss-cpu==1.7.4
+openai
+InstructorEmbedding==1.0.1
+matplotlib==3.7.2
+transformers
+numpy
+mediapipe

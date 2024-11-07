@@ -1,0 +1,1865 @@
+lphWa29_-en; en; Which personnal informations are concerned by the data deletion request?; The deletion request will be applied to all the data collected by the web sites and apps of CIO and Paris 2024 on which you registered, namely: olympics.com [http://olympics.com/], Paris 2024 Club, Marathon Pour Tous, Generation 2024, Terre de Jeux, Cultural Olympiad, the ticketing platform, the Volunteers platform, the Torch Relay platform, ect.
+
+
+
+If you applied on the Volunteers platform, your application will be deleted.
+
+If you won a bib for the Marathon Pour Tous, it will be deleted.
+
+However, if you bought tickets your account will be preserved to let you receive the informations relative to your tickets.; Other;Account and personal data; https://help.paris2024.org/en-gb/contents/Which-personnal-informations-are-concerned-by-the-data-deletion-request-lphWa29_
+lqS-4jng-en; en; I have doubts concerning the website I purchased my tickets on, what should I do?; There is only one official website to buy tickets for the Paris 2024 Games:
+
+https://tickets.paris2024.org/en/
+
+No other website has the right to sell tickets for the Paris 2024 Olympic and Paralympic Games.
+
+
+
+There is also the official program offering packages (i.e. tickets combined with hospitality services).
+
+These packages are developed and commercialized by the official hospitality supplier for the Paris 2024 Olympic and Paralympic Games, On Location, and its official network of sub-distributors.
+
+
+
+To discover the Paris 2024 Hospitality & Travel offers, please visit:
+
+Olympic Games Paris 2024| Hospitality and Travel Packages [https://hospitalitytravelpackages.paris2024.org/discover?language=en]; Other;Account and personal data; https://help.paris2024.org/en-gb/contents/I-have-doubts-concerning-the-website-I-purchased-my-tickets-on-what-should-I-do-lqS-4jng
+lqcubFMd-en; en; One of my Paris 2024 account got hacked, what should I do?; If you notice an unusual activity on your account or if you think that your account has been hacked, Paris 2024 invites you to follow the following steps to regain access to your account and strengthen its security.
+
+
+
+On the login page, click on the I've forgotten my password link:
+
+
+
+ * Enter the email address used to register for Paris 2024 and we will send you a reset link
+
+ * When creating your new password we recommend you follow the guidelines for setting a strong password here: Paris2024-Awareness-cybersecurity.pdf [https://medias.paris2024.org/uploads/2023/08/Paris2024-Awareness-cybersecurity.pdf]
+
+ * Immediately change your password for applications and sites where you use the same password as for Paris 2024; Other;Account and personal data; https://help.paris2024.org/en-gb/contents/One-of-my-Paris-2024-account-got-hacked-what-should-I-do-lqcubFMd
+lqm_ssjN-en; en; How to avoid being victim of a fraud?; Attracted by financial gain, cybercriminals are increasing their efforts to put websites online that usurp everyday services: online messaging, e-commerce sites, banking or administrative services, for example.
+
+
+
+When browsing the Internet, you need to pay particular attention to the legitimacy of the websites you visit.
+
+Sensitive transactions should only be carried out on official sites.
+
+
+
+To find out more, click here:
+
+Paris2024-Awareness-cybersecurity.pdf#page=3 [https://medias.paris2024.org/uploads/2023/08/Paris2024-Awareness-cybersecurity.pdf#page=3]; Other;Account and personal data; https://help.paris2024.org/en-gb/contents/How-to-avoid-being-victim-of-a-fraud-lqm_ssjN
+lqrK4p6h-en; en; I have a question concerning cybersecurity, where can I find some information?; For more information concerning the Paris 2024 cybersecurity, click here:
+
+https://www.paris2024.org/en/cybersecurity/; Other;Account and personal data; https://help.paris2024.org/en-gb/contents/I-have-a-question-concerning-cybersecurity-where-can-I-find-some-information-lqrK4p6h
+fB0Ul9_d-en; en; Cookie Notice Help; Latest update: 10/07/2024
+
+ The ORGANIZING COMMITTEE FOR THE PARIS 2024 OLYMPIC AND PARALYMPIC GAMES (hereinafter referred to as ‘Paris 2024’) is committed to ensuring the protection of your personal data when you use the Paris 2024 websites. For more information on how Paris 2024 manages your personal data, please refer to our Privacy Policy. [https://ceremonie.quaishauts.org/en/help/data-protection/]
+
+This policy regarding the management of personal data through tracking technologies as cookies, tags and pixels (hereinafter the ‘Cookie Policy’) applies to the processing of personal data collected via the technology used on the following website (hereinafter the ‘Site’):
+
+Help Website: https://help.paris2024.org/
+
+PARIS 2024 RESERVES THE RIGHT TO MODIFY THE COOKIE POLICY, ESPECIALLY TO ACCOUNT FOR ANY CHANGES IN APPLICABLE LAW. THEREFORE, YOU ARE INVITED TO REGULARLY CONSULT THIS PAGE, THE DATE OF THE LAST UPDATE OF WHICH WILL APPEAR AT THE TOP OF THIS DOCUMENT.
+
+ 
+
+This dedicated tracker policy is supplemented by the information provided in the Paris 2024 Privacy Policy here. [https://help.paris2024.org/en-gb/contents/Privacy-policy-Paris-2024-aHSSm1RL]
+
+1. What is a cookie?
+
+A cookie is defined as a file saved by the navigation tool of the machine in a dedicated storage space. It is stored during the consultation of a website. A cookie cannot read data from your computer's hard drive. Thanks to this text file, the website can identify the terminal in which it is deposited and memorize the information necessary for its journey.
+
+2. What kind of cookie do we use?
+
+Paris 2024 and other third parties may install the following cookies when you use the Site:
+
+·       Strictly necessary functional cookies: These cookies allow you to navigate our Sites and, in some cases, optimize services. They are essential for the Sites’ operation and cannot be disabled. Typically, they are configured based on your service requests, such as privacy settings, identification, or form completion. The Sites will not function normally if you block or disable them.
+
+·       Not strictly necessary functional cookies (preferences): These enhance the customer experience on the Platform, for example, by remembering your login details, optimizing video performance, or providing information about Platform usage. You can freely choose to accept or refuse these cookies at any time. Note that certain features may be impacted if you do not accept these cookies.
+
+·       Performance and statistical cookies: These collect information that helps us improve Site performance and provide what we believe is the best user experience. They allow us to count visits and traffic sources on the Sites, measure and enhance performance, and build a profile of your interests and browsing habits. This personalization aims to offer you the most relevant content. By not allowing these cookies, we won’t have insights into Site usage and performance, and your experience may be less personalized and relevant.
+
+·       Marketing cookies: These personalize online advertising based on your browsing activity and location when accessing a site. They include cookies set by our advertising partners. Paris 2024 uses them (i) to measure traffic to our digital Platforms and customize services, and (ii) to create and deliver relevant ads and content on our platforms and other sites. If you don’t authorize these cookies, you’ll still see online ads and content, but they won’t align with your interests.
+
+You can review the details of these cookies by category and manage the related settings in the preference center [JC3] of the Consent Management Platform (CMP) tool.
+
+3. cookie IMPLEMENTATION
+
+The following cookies are implemented on our site. Optional cookies will only be deposited after obtaining your consent through the Tracker Management Tool (referred to as “CMP” below).
+
+ 
+
+COOKIE NAME
+
+CATEGORIZATION / TYPE
+
+LIFETIME
+
+OPTIONAL (YES/NO)
+
+1
+
+acw_tc
+
+Functional
+
+1 day
+
+NO
+
+2
+
+aliyungf_tc
+
+Functional
+
+Session
+
+NO
+
+3
+
+CookieConsent
+
+Functional
+
+1 year
+
+NO
+
+4
+
+bscookie
+
+Functional
+
+1 year
+
+NO
+
+5
+
+_ga
+
+Analytics
+
+2 years
+
+YES
+
+6
+
+ga#
+
+Analytics
+
+2 years
+
+YES
+
+7
+
+u_scsid
+
+Analytics
+
+Session
+
+YES
+
+8
+
+anj
+
+Marketing
+
+3 months
+
+YES
+
+9
+
+pixie
+
+Marketing
+
+Session
+
+YES
+
+10
+
+receive-cookie-deprecation
+
+Marketing
+
+400 days
+
+YES
+
+11
+
+uuid2
+
+Marketing
+
+3 months
+
+YES
+
+12
+
+XANDR_PANID
+
+Marketing
+
+3 months
+
+YES
+
+13
+
+ad-id
+
+Marketing
+
+191 days
+
+YES
+
+14
+
+ad-privacy
+
+Marketing
+
+400 days
+
+YES
+
+15
+
+tt_appInfo
+
+Marketing
+
+Session
+
+YES
+
+16
+
+tt_pixel_session_index
+
+Marketing
+
+Session
+
+YES
+
+17
+
+tt_sessionId
+
+Marketing
+
+Session
+
+YES
+
+18
+
+lastExternalReferrer
+
+Marketing
+
+Persistent
+
+YES
+
+19
+
+lastExternalReferrerTime
+
+Marketing
+
+Persistent
+
+YES
+
+20
+
+IDE
+
+Marketing
+
+400 days
+
+YES
+
+21
+
+pagead/landing
+
+Marketing
+
+Session
+
+YES
+
+22
+
+test_cookie
+
+Marketing
+
+1 day
+
+YES
+
+23
+
+fr
+
+Marketing
+
+3 months
+
+YES
+
+24
+
+NID
+
+Marketing
+
+6 months
+
+YES
+
+25
+
+pagead/1p-user-list/#
+
+Marketing
+
+Session
+
+YES
+
+26
+
+AnalyticsSyncHistory
+
+Marketing
+
+30 days
+
+YES
+
+27
+
+bcookie
+
+Marketing
+
+1 year
+
+YES
+
+28
+
+li_gc
+
+Marketing
+
+180 days
+
+YES
+
+29
+
+li_sugr
+
+Marketing
+
+3 months
+
+YES
+
+30
+
+lidc
+
+Marketing
+
+1 day
+
+YES
+
+31
+
+UserMatchHistory
+
+Marketing
+
+30 days
+
+YES
+
+32
+
+p
+
+Marketing
+
+Session
+
+YES
+
+33
+
+RUID
+
+Marketing
+
+6 months
+
+YES
+
+34
+
+s
+
+Marketing
+
+Session
+
+YES
+
+35
+
+__troRUID
+
+Marketing
+
+6 months
+
+YES
+
+36
+
+__trossion
+
+Marketing
+
+6 months
+
+YES
+
+37
+
+__troSYNC
+
+Marketing
+
+1 day
+
+YES
+
+38
+
+_fbp
+
+Marketing
+
+3 months
+
+YES
+
+39
+
+gclau
+
+Marketing
+
+3 months
+
+YES
+
+40
+
+_schn1
+
+Marketing
+
+1 day
+
+YES
+
+41
+
+_scid
+
+Marketing
+
+13 months
+
+YES
+
+42
+
+scidr
+
+Marketing
+
+13 months
+
+YES
+
+43
+
+_screload
+
+Marketing
+
+Session
+
+YES
+
+44
+
+ttenable_cookie
+
+Marketing
+
+1 year
+
+YES
+
+45
+
+_ttp
+
+Marketing
+
+1 year
+
+YES
+
+46
+
+u_sclid
+
+Marketing
+
+Persistent
+
+YES
+
+47
+
+u_sclid_r
+
+Marketing
+
+Persistent
+
+YES
+
+48
+
+u_scsid_r
+
+Marketing
+
+Session
+
+YES
+
+49
+
+X-AB
+
+Marketing
+
+1 day
+
+YES
+
+50
+
+_ttp
+
+Marketing
+
+1 year
+
+YES
+
+51
+
+#-#
+
+Marketing
+
+Session
+
+YES
+
+52
+
+iU5q-!O9@$
+
+Marketing
+
+Session
+
+YES
+
+53
+
+LAST_RESULT_ENTRY_KEY
+
+Marketing
+
+Session
+
+YES
+
+54
+
+LogsDatabaseV2:V#||LogsRequestsStore
+
+Marketing
+
+Persistent
+
+YES
+
+55
+
+nextId
+
+Marketing
+
+Session
+
+YES
+
+56
+
+remote_sid
+
+Marketing
+
+Session
+
+YES
+
+57
+
+requests
+
+Marketing
+
+Session
+
+YES
+
+58
+
+ServiceWorkerLogsDatabase#SWHealthLog
+
+Marketing
+
+Persistent
+
+YES
+
+59
+
+TESTCOOKIESENABLED
+
+Marketing
+
+1 day
+
+YES
+
+60
+
+VISITOR_INFO1_LIVE
+
+Marketing
+
+180 days
+
+YES
+
+61
+
+YSC
+
+Marketing
+
+Session
+
+YES
+
+62
+
+yt.innertube::nextId
+
+Marketing
+
+Persistent
+
+YES
+
+63
+
+yt.innertube::requests
+
+Marketing
+
+Persistent
+
+YES
+
+64
+
+ytidb::LAST_RESULT_ENTRY_KEY
+
+Marketing
+
+Persistent
+
+YES
+
+65
+
+YtIdbMeta#databases
+
+Marketing
+
+Persistent
+
+YES
+
+66
+
+yt-remote-cast-available
+
+Marketing
+
+Session
+
+YES
+
+67
+
+yt-remote-cast-installed
+
+Marketing
+
+Session
+
+YES
+
+68
+
+yt-remote-connected-devices
+
+Marketing
+
+Persistent
+
+YES
+
+69
+
+yt-remote-device-id
+
+Marketing
+
+Persistent
+
+YES
+
+70
+
+yt-remote-fast-check-period
+
+Marketing
+
+Session
+
+YES
+
+71
+
+yt-remote-session-app
+
+Marketing
+
+Session
+
+YES
+
+72
+
+yt-remote-session-name
+
+Marketing
+
+Session
+
+YES
+
+73
+
+mayday_locale
+
+Preferences
+
+1 year
+
+YES
+
+74
+
+nuxt-reload
+
+Functional
+
+Session
+
+YES
+
+75
+
+mayday-session
+
+Analytics
+
+Session
+
+YES
+
+76
+
+gb:webivr:session:838625db-fb
+
+Functional
+
+Persistent
+
+YES
+
+77
+
+gb:webivr:session:ddb75b1d-aa
+
+Functional
+
+Persistent
+
+YES
+
+ 
+
+For more information and to modify your choices, refer to the descriptions provided within the CMP tool. 
+
+4. Expiration time
+
+Cookies may be stored on your browser or on your computer's hard drive for as long as you keep that browser active (for session cookies), or for such longer period as permitted by law (for persistent cookies)
+
+The cookies retention period can be limited to a few hours or a year at most. For more information, see the cookie settings available on the platform and the previous cookies implementation description tab.
+
+5. Cookie preference management
+
+You can freely decide to accept or refuse cookies, and modify these criteria at any time, in particular by clicking on the “Manage my cookie preferences” tab of the Consent Management Platform (CMP) on the website or the Application. Most browsers also allow you to disable cookies or to be alerted when a cookie is issued. To learn more, please consult your browser's help menu. Regardless of the settings you select, you can choose to disable or re-enable cookies at any time.
+
+ 
+
+To guide you in the process of limiting your online footprint, we invite you to consult the following page: User trackers advice provided by the CNIL (French Data Supervision Authority).
+
+----------------------------------------; Other;Account and personal data; https://help.paris2024.org/en-gb/contents/Cookie-Notice-Help-fB0Ul9_d
+RMV9UFbb-en; en; How do I change my email address on my Paris 2024 account?; Paris 2024 undertakes to respect your rights regarding your personal data. Your account and your personal data can be modified at your request by filling this form.[Modify my account] [https://privacyportal-eu.onetrust.com/webform/22395098-025a-4a86-b716-763ae9c9a4cf/978502db-bcb8-408d-8979-ccbcf674092b]
+
+ 
+
+Please note that your modification request will apply to all data collected by IOC and Paris 2024 websites/applications where you have registered, including: Olympics.com [http://olympics.com/], Club Paris 2024, Marathon Pour Tous, Generation 2024, Terre de Jeux 2024, Olympiade Culturelle, Ticketing platform, Volunteer platform, Torch Relay platform, etc.  
+
+ 
+
+In order to modify your login email address, we must verify your identity. To do this, we will send you an email to specify certain personal data.  
+
+This verification is done manually and may take several days. Please note that we will do our best to process your request as quickly as possible. 
+
+Please note that for all requests received on or after 15 July 2024, we cannot guarantee that the change of email address will be processed before your session.  
+
+If you have not been notified of a change to your email address by your session, we invite you, as the holder of one or more tickets, to go to the ticket office with your ID to gain access to the competition venue. 
+
+To help you prepare for your visit, we recommend that you consult the spectator guide available by clicking here <https://olympics.com/en/paris-2024/spectator/spectator-guides> 
+For more information about your tickets, we invite you to contact the ticketing customer service by clicking here [https://tickets.paris2024.org/en/contact-form/?lang=en_en]; Other;Account and personal data; https://help.paris2024.org/en-gb/contents/How-do-I-change-my-email-address-on-my-Paris-2024-account-RMV9UFbb
+lqRyzPCW-en; en; I've been targeted by an attempted scam. What should I do?; Contacts with Paris 2024 will always be at your initiative.
+
+If you receive an e-mail, text message or telephone call from Paris 2024, we would like to remind you that you will not be asked for any password or bank details.
+
+
+
+If you have been targeted by an attempted scam, report the incident to the authorities, collect any evidence, messages and information you have and report the facts on the Ministry of the Interior's dedicated platform:
+
+https://www.internet-signalement.gouv.fr/PharosS1/
+
+
+
+If you've been the victim of a scam:
+
+
+
+ * Keep all evidence, messages and information you have (identity, telephone number, address, e-mail contact, transaction number, bank details, documents sent, website consulted, etc.)
+
+ * File a complaint with the local authorities.
+   
+   For commercial scams, you can file a complaint online via the THESEE platform at:
+   
+   https://www.service-public.fr/particuliers/vosdroits/N31138#0
+
+ * Register a stop payment with your bank as soon as possible. If a payment has already been debited from your account, request reimbursement, indicating that you are filing a complaint. Some banks require proof that you have lodged a complaint in order to process your claim
+
+ * If you require assistance, please visit:
+   
+   cybermalveillance.gouv.fr [http://cybermalveillance.gouv.fr/]
+
+
+
+To find out more about how to protect yourself against scam attempts, visit:
+
+Paris2024-Awareness-cybersecurity.pdf#page=2 [https://medias.paris2024.org/uploads/2023/08/Paris2024-Awareness-cybersecurity.pdf#page=2]; Other;Account and personal data; https://help.paris2024.org/en-gb/contents/I-ve-been-targeted-by-an-attempted-scam-What-should-I-do-lqRyzPCW
+lqhFzSx9-en; en; How to create a strong password?; Messaging, social networking, banking, e-government and e-commerce, business applications... Today, the security of access to these everyday services relies heavily on passwords.
+
+
+
+Read the guidelines for building a strong password here:
+
+Paris2024-Awareness-cybersecurity.pdf [https://medias.paris2024.org/uploads/2023/08/Paris2024-Awareness-cybersecurity.pdf]; Other;Account and personal data; https://help.paris2024.org/en-gb/contents/How-to-create-a-strong-password-lqhFzSx9
+lqpobIl3-en; en; How do I udpate my equipement?; The digital devices and software we use on a daily basis can present security flaws that are more or less exploited by cybercriminals.
+
+Faced with these risks, software publishers and manufacturers offer updates (patches) designed to correct these flaws.
+
+While updating is often seen as a constraint, it is nonetheless essential to protect yourself.
+
+
+
+To find out more, click here:
+
+Paris2024-Awareness-cybersecurity.pdf#page=4 [https://medias.paris2024.org/uploads/2023/08/Paris2024-Awareness-cybersecurity.pdf#page=4]; Other;Account and personal data; https://help.paris2024.org/en-gb/contents/How-do-I-udpate-my-equipement-lqpobIl3
+aHSSm1RL-en; en; Privacy policy Paris 2024; Online version : 24/06/2024
+
+The PARIS 2024 OLYMPIC AND PARALYMPIC GAMES ORGANIZING COMMITTEE (hereinafter "Paris 2024") is committed to protecting your personal data when you use the sites, applications and other media for which Paris 2024 is responsible.
+
+This privacy policy (hereinafter the "Paris 2024 Privacy Policy") relates to the processing of personal data implemented from the sites, applications, and other media (hereinafter "The Sites") that are linked to the Paris 2024 digital universe, namely:
+
+ * Academy: https://academie.paris2024.org [https://academie.paris2024.org/]
+
+ * Le Club & Application: https://club.paris2024.org/ 
+
+ * Sportsclub:  https://sportsclub.paris2024.org [https://sportsclub.paris2024.org/]
+
+ * Generation: https://generation.paris2024.org/
+
+ * Terre de jeux: https://terredejeux.paris2024.org/
+
+ * Marathon Pour Tous & Application: https://terredejeux.paris2024.org/
+
+ * Olympic Torch Relay Portal: https://www.paris2024.org/fr/relais-politique-confidentialite/
+
+ * Volunteers Paris 2024 Portail: https://volontaire.paris2024.org/vportal/
+
+ * Recrutement Portal: https://rejoindre.paris2024.org [https://rejoindre.paris2024.org/]
+
+ * Ticketing, Grand Public, Groupes, Resales websites & Application : https://tickets.paris2024.org/ & https://ticket-resale.paris2024.org/
+
+ * Upper Quays : https://ceremonie.quaishauts.org [https://ceremonie.quaishauts.org/]
+
+ * Cultural Olympiad: https://culture.paris2024.org/ & https://olympiade-culturelle.paris2024.org [https://olympiade-culturelle.paris2024.org/]
+
+ * Celebrations: https://celebrations.paris2024.org [https://celebrations.paris2024.org/]
+
+ * Accessibility / Help: https://help.paris2024.org/
+
+ * Centre de Préparation aux Jeux : https://prepare.paris2024.org/fr/
+
+ * Extranet Presse: https://pressoperations.paris2024.org/ 
+
+ * Espace Presse Grand Public: https://presse.paris2024.org/
+
+ * Content Library: https://contentlibrary.paris2024.org/
+
+This Paris 2024 Privacy Policy is supplemented by the information provided during the course prior to processing and in the dedicated privacy policies available on each of the Sites.
+
+ 
+
+Personal data as defined in data protection regulations (General Data Protection Regulation No. 2016/679 of April 27, 2016 and Act No. 78/17 of January 6, 1978 as amended) consists of any information that directly or indirectly identifies you as a natural person.
+
+ 
+
+The policy describes:
+
+1.       Data controller.
+
+2.       Purposes and Legal Bases of Processing Your Personal Data.
+
+3.       Purposes and Data Processed by Paris 2024.
+
+4.       Cookies.
+
+5.       Data Recipients.
+
+6.       Data Sources.
+
+7.       Data Retention Period.
+
+8.       Protection in Case of Transfer.
+
+9.       Your Data Rights.
+
+ 
+
+Paris 2024 reserves the right to modify the Privacy Policy, in particular to take into account any changes in applicable law. You are therefore invited to consult this page regularly. The date of the last update will appear at the top of this document.
+
+
+
+1. DATA CONTROLLER
+
+Comité d'Organisation des Jeux Olympiques et Paralympiques (hereinafter "Paris 2024"), whose registered office is located at 46 rue Proudhon 93210 Saint-Denis (France), is the Data Controller for personal data processed on the Sites and in the course of our interactions. This data is made accessible to our technical service providers ("Subcontractors" within the meaning of the regulations) for the strict needs of their mission and in accordance with our instructions, notably in the fields of IT (hosted software publishers, IT platform development services, hosting services, customer relationship management (CRM) and other communication services, analysis and measurement services, email and push notification communication services, internet services on which we publish our advertisements, etc.). For further information, please refer to Section 5 "Recipients".
+
+Paris 2024 and the International Olympic Committee (hereinafter "IOC"), headquartered in 1007 Lausanne (Switzerland), are jointly responsible for the Processing for activities related to the single sign-on system in the context of account creation, access management and authentication. For the purposes of optimization and simplified access, Paris 2024 and the IOC use a common identifier, which enables you to access your account on different environments, namely :
+
+·       For Paris 2024: the above-mentioned sites which are using the unique connection system;
+
+·       For the IOC: the Olympics website https://Olympics.com [https://olympics.com/] and its application
+
+Paris 2024, the IOC and the International Paralympic Committee (hereinafter "IPC") are responsible for separate data processing for the purposes of improving user knowledge, evaluating the performance of digital properties and activities related to the Olympic or Paralympic Games (personalizing their services, products and marketing activities and, where you have given your consent, sending you direct marketing related to their products, services and partners). The IOC and IPC inform you, in accordance with their obligations, of their own purposes for using your data and how they use your data through their respective privacy policies, which we invite you to consult ( https://olympics.com/fr/privacy-policy and https://www.paralympic.org/privacy ).
+
+ Your personal data may also be transmitted, in whole or in part, to third parties who may use it for the specific needs of their interventions (lawyers, bailiffs, accountants, etc.) in their capacity as data processors, separate or joint with Paris 2024.
+
+ At the end of the event, the data processed by the above-mentioned data controllers may be transmitted to partner entities (CNOSF, ANS, IOC) whose purpose is to continue certain processing operations previously carried out in Paris 2024's digital environments, in their capacity as subsequent data controllers. This transmission will be carried out in compliance with the rules applicable to the protection of personal data. For further information, please refer to Section 5 "Recipients".
+
+
+2. PURPOSES AND LEGAL BASES OF PROCESSING YOUR PERSONAL DATA
+
+You are informed of the purposes for which your personal data is processed on each Site, by means of a first level of information available on the pages processing the data and by a second level, and/or direct access, to the Privacy Policy by Paris 2024, in its capacity as data controller.
+
+ 
+
+In general, your data is collected on the following legal bases and for the following purposes:
+
+
+2.1 BASED ON OUR CONTRACTUAL RELATIONSHIP OR PRECONTRACTUAL MEASURES IN JOINT RESPONSIBILITY WITH THE IOC (REFER TO SECTION 3):
+
+ * To facilitate your use of the service;
+
+ * To enable you to register and authenticate;
+
+ * To manage your user account and authenticate you;
+
+ * To provide you with the information and content you have requested.
+   
+
+2.2 BASED ON OUR LEGAL ACCOUNTING AND TAX OBLIGATIONS:
+
+·       To manage requests to exercise your rights;
+
+·       To keep a list of objections to marketing communications.
+
+
+2.3 UNLESS YOU OBJECT AND WITHIN THE LIMITS OF YOUR INTERESTS AND RIGHTS TO PURSUE OUR LEGITIMATE INTEREST, WHETHER ORGANIZATIONAL OR OPERATIONAL:
+
+·     To promote the Games and the Olympic movement (communication, canvassing and, in particular, sending messages about our latest news, improving our knowledge of the people with whom we are in contact in order to personalize our communication, compiling statistics, carrying out satisfaction surveys, etc.);
+
+·     To offer you a personalized experience, based on your preferences and choice of content;
+
+·     To maintain and develop the Sites, ensure their security and ensure that they are used in accordance with applicable law;
+
+·     To compile traffic statistics and improve the operation, security and efficiency of the site or sub-sites;
+
+·     To provide customer service assistance;
+
+·     Tto combat fraud.
+
+
+2.4 BASED ON YOUR CONSENT ON THE SITE:
+
+·     To send you promotional messages or information by electronic means (including newsletters, marketing messages related to products, services, or other initiatives of the corresponding Data Processors or their commercial partners, according to your choices)  
+
+·       From Paris 2024 and its partners and/or ;
+
+·       From recipients (the IOC and its partners) and/or ;
+
+·       From any other recipient to whom you have given your consent.
+
+Where applicable, the recipient will use your data as the data controller in accordance with its privacy policy.
+
+·       To participate in surveys aimed at better understanding the needs of our users, and future spectators in order to help several Paris 2024 stakeholders adapt their services to meet the challenges involved in organizing a major event.
+
+Our website uses cookies and other tracking devices for various purposes. To find out more about the processing carried out, please refer to the Tracker Management Policy. 
+[https://help.paris2024.org/en-gb/contents/Cookie-Notice-Paris-2024-fB0Ul9_d]
+
+
+3. PURPOSES AND DATA PROCESSED BY PARIS 2024
+
+The personal data we process is collected when you use the Sites, in accordance with the table below. The table may be supplemented by additional information at the time of data collection and by the Privacy Policies dedicated to each site.
+
+·        For all Paris 2024 sites:
+
+Main Purposes /Sub-Purposes
+
+Personal Data Processed
+
+Account Creation, Authentication, and Management
+
+-        Identification data (Civility, Name, Surname, Date of Birth, User ID),
+
+-        Contact information (Phone number, Postal address, Email address),
+
+-        Location information (Country of residence, Postal code),
+
+-        Authentication information (Email address, Password, Unique account ID),
+
+-        Connection and navigation information (Consent to trackers,
+
+-        Password creation date, Account origin),
+
+-        Privacy policy acceptance information,
+
+-        Marketing solicitation choices,
+
+-        Chosen language
+
+Paris 2024 customer service
+
+Website/Frequently asked questions
+
+Website/Frequently asked questions - Searches performed
+
+-Browsing activity
+
+-Time spent on site
+
+-Page views
+
+-Satisfaction with content
+
+-Comments on content
+
+Chat Bot
+
+-User requests
+
+-Details of user requests gathered directly from users
+
+Live Chat
+
+-Any personal data entered in the chat by the user
+
+Telephone service management
+
+-Identification data (title, surname, first name)
+
+-Contact details (email address, telephone number) if necessary for processing the request
+
+-Purpose and details of the user's request
+
+-Notes taken by advisors to follow up request
+
+-Status of request
+
+Accessibility service for deaf and hard-of-hearing persons
+
+-Identification data (surname, first name, email, telephone, IP address, customer ID)
+
+-Call statistics (duration, mode of communication used - LSF, LPC TESA-)
+
+-Site traffic and usage data
+
+Customer service report management
+
+-Service usage statistics
+
+User surveys
+
+-Email address
+
+- User profile: club member, ticketing customer, volunteer, TDJ member, candidate, relay candidate
+
+- Any profile data that can be used to determine membership of a representative group (preferred language, country of origin, etc.)
+
+Fraud prevention
+
+Information about canceled transactions, All information
+
+Report and statistics Génération
+
+Logging information, browsing activities
+
+Data subject rights management
+
+-       Rights exercise request,
+
+-       Identification information: Full name,
+
+Contact details: Email address, Postal address, Phone number, ID document
+
+Compliance with Paris 2024's legal, accounting, and tax obligations
+
+All collected data
+
+ 
+
+·       For some of the Paris 2024 Sites, please refer to their dedicated Privacy Policy and/or the information above:
+
+ 
+
+Site
+
+Purposes
+
+Personal Data Processed
+
+Cultural Olympiad *
+
+Account creation and access management
+
+- Account creation and access management
+
+- Identification data (name, first name, date of birth, gender, user ID)
+
+- Contact information (phone number and email address)
+
+- Location information (country of residence, postal code)
+
+- Authentication information (email, password, unique account identifier) - Connection and navigation information (password creation date, account origin)
+
+- Chosen language
+
+Collection of the project appliance, project selection
+
+- Contact information (phone number and email address)
+
+- Professional information (artistic structure)
+
+- Details of cultural projects, including project description, artistic proposals and choices, photographic and video materials
+
+- Project evaluation based on indicators
+
+- Exchanges with Paris 2024
+
+- Selection results
+
+Centre de Préparation aux Jeux
+
+Management of CPJ referents
+
+- Identification data of contacts (name, first name, date of birth, gender)
+
+- Contact information (email address)
+
+- Territorial community, sports association
+
+Stage reservation
+
+- Identification data of the administrative delegate (name, first name, titles, User ID)
+
+- Territorial community, sports association
+
+- Details of the stay (dates, location, accommodation details, number of participants)
+
+Extranet Presse
+
+Account creation and access management
+
+- Identification data (name, first name, date of birth, gender, user ID)
+
+- Contact information (phone number and email address)
+
+- Location information (country of residence, postal code)
+
+- Authentication information (email, password, unique account identifier)
+
+- Connection and navigation information (password creation date, account origin)
+
+- Chosen language
+
+Newsletter
+
+- Email address
+
+- Full name
+
+- Consent information
+
+Espace Presse Grand Public
+
+Newsletter
+
+- Email address
+
+- Full name
+
+- Consent information
+
+Le Club Paris2024*
+
+Account creation and access management
+
+- Identification data (name, first name, date of birth, gender, user ID)
+
+- Contact information (phone number and email address)
+
+- Location information (country of residence, postal code) - Authentication information (email, password, unique account identifier)
+
+- Connection and navigation information (password creation date, account origin)
+
+- Chosen language
+
+Management of club members’ participation in challenges
+
+- Identification data (Name, First Name)
+
+- Participation in challenges
+
+- Individual scores
+
+- Practiced sports activities
+
+Promotion and loyalty operations                    
+
+- Identification data (Name, First Name)
+
+- Individual scores
+
+- Practiced activities
+
+Improvement of the Club offers
+
+- Member opinion surveys
+
+- Campaign effectiveness measures
+
+- Log information
+
+Marketing communications
+
+- Identification data (name, first name, date of birth, gender, user ID)
+
+- Contact information (phone number and email address)
+
+- Location information (country of residence, postal code)
+
+- Consent information
+
+- Individual scores
+
+- Practiced activities
+
+Personalization of services
+
+- Données d’identification (nom, prénom, date de naissance, civilité, identifiant utilisateur)
+
+- Information de contact (numéro de téléphone et adresse email)
+
+- Information de localisation (pays de résidence, code postal)
+
+- Information de consentement
+
+- Scores individuels
+
+- Activités pratiquées
+
+Statistics
+
+-Technical logs and navigation information
+
+Newsletter
+
+- Identification data (name, first name, date of birth, gender, user ID)
+
+- Contact information
+
+Sportsclub
+
+Account creation and access management
+
+- Identification data (name, first name, date of birth, gender, user ID)
+
+- Contact information (phone number and email address)
+
+- Location information (country of residence, postal code)
+
+- Authentication information (email, password, unique account identifier)
+
+- Connection and navigation information (password creation date, account origin)
+
+- Chosen language
+
+Challenges participation management
+
+- Identification
+
+- Challenge participation
+
+- Individual scores
+
+- Activity tracking
+
+- Practiced sports
+
+Content Library
+
+Account creation and access management
+
+- Identification data (name, first name)
+
+- Contact information (email adresse)
+
+- Authentification informations
+
+- Permission level for the Content Library
+
+Dépôt de contenus
+
+- Images
+
+- Videos
+
+Ticketing Paris 2024*
+
+You can consult the details of your personal data processing in the Ticketing privacy policy [https://tickets.paris2024.org/help/data-protection/].
+
+Upper quays
+
+You can consult the details of your personal data processing in the Upper Quays privacy policy. [https://ceremonie.quaishauts.org/help/data-protection/]
+
+Volunteers Paris 2024*
+
+You can consult the details of your personal data processing in the Volunteers Paris 2024 privacy policy. [https://volontaire.paris2024.org/]
+
+Relais de la Flamme Paris 2024*
+
+You can consult the details of your personal data processing in the Relais de la Flamme [https://www.paris2024.org/fr/relais-politique-confidentialite/] privacy policy.
+
+Academy*
+
+You can consult the details of your personal data processing in the Academy Privacy Policy. [https://storage.googleapis.com/terraform-paris2024-lms-prod-public-uploads-mihgdn/sitePolicy/AcademieParis2024_Politique_de_confidentialite_FR.pdf]
+
+Marathon Pour Tous*
+
+You can consult the details of your personal data processing in the Marathon Pour Tous privacy policy [https://in.marathonpourtous.paris2024.org/marathon-pour-tous-2024?currentPage=select-competition].
+
+Generation 2024*
+
+You can consult the details of your personal data processing in the Generation 2024 privacy policy [https://generation.paris2024.org/politique-de-confidentialite-generation-2024].
+
+Terre de Jeux*
+
+You can consult the details of your personal data processing in the Terre de Jeux privacy policy. [https://terredejeux.paris2024.org/politique-de-confidentialite]
+
+Recrutement Portal
+
+You can consult the details of your personal data processing in the Recrutement Portal [https://rejoindre.paris2024.org/content/Politique-de-confidentialite/?locale=fr_FR]
+
+* It is specified that, for these Sites and applications, authentication information (email, password, unique account identifier) is processed by Paris 2024 and the IOC as joint data controllers to manage your access and authentication when you log in to the relevant sites.
+
+ 
+
+
+4. COOKIES
+
+Concerning the management of your personal data in the context of tracking technologies (cookies, tags, pixels...), please refer to the Tracking Policy of the dedicated website.
+
+
+
+5. DATA RECIPIENTS
+
+For the purposes mentioned above, Paris 2024 may share your data with the following recipients for all the above-mentioned Sites:
+
+·     The IOC, pursuant to the agreements between Paris 2024 and the IOC, for the purposes determined by the IOC under the conditions set forth in its own privacy policy available here. Subject to certain exceptions, you have the right to object to such processing activities. You may contact Paris 2024 and/or the IOC by the means described in Section 9 for any request and exercise this right to object. Si vous consentez à recevoir des communications marketing de leur part :
+
+o   Partners of Paris 2024 [https://www.paris2024.org/fr/partenaires/] ;
+
+o   Other stakeholders in the Olympic Movement, including International Federations, National Olympic Committees, other Olympic Games Organizing Committees and the IOC's commercial partners;The International Paralympic Committee ("IPC"), the French National Olympic and Sports Committee ("CNOSF") and the French Paralympic and Sports Committee ("CPSF").
+
+These recipients will then use your data for this purpose in accordance with the terms of their own privacy policies.
+
+·       Only for the referents of the Games Preparation Centre site, and the heads of delegations taking part in training courses: Dans le cadre de la venue des délégations lors des stages vos informations personnelles peuvent être transmises :
+
+ * To the Ministère de l’intérieur [https://www.interieur.gouv.fr/] to enable it to carry out its missions of maintaining order and securing delagations.
+
+ * To the  ministère de l’Europe et des Affaires Etrangères [https://www.diplomatie.gouv.fr/fr/] (MEAE) to anticipate visa issues and manage relations with consular posts.
+
+ * The Ministère des Sports [https://www.sports.gouv.fr/] and  l’Agence Nationale du Sport [https://www.agencedusport.fr/] : as lead agencies for the Olympic and Paralympic Games.
+
+ * A la DIGES [https://www.sports.gouv.fr/delegation-interministerielle-aux-grands-evenements-sportifs-400] (Délégation Interministérielle aux Grands Evènements Sportifs) et la DIJOP [https://www.gouvernement.fr/delegation-jeux-olympiques-paralympiques-paris-2024] (Délégation Interministérielle aux jeux Olympiques et Paralympiques) as part of their interministerial coordination role.
+
+As part of the Games' legacy program, the personal details of the CPJ referents (surname, first name, email address) will be sent to the DIGES (Délégation Interministérielle aux Grands Evènements Sportifs - Interministerial Delegation for Major Sporting Events) in order to continue the national and international promotion of the centers among players in the sporting movement.
+
+
+
+6. DATA SOURCES
+
+The personal data processed by Paris 2024 is collected and processed :
+
+·        when you use the Sites on the basis of information collected from you;
+
+·       in connection with your use of the IOC websites, in particular in the following situations:On the IOC Platform: If you create an account or interact with the IOC on one of its websites, and you have an account on the Paris 2024 website: the IOC shares with Paris 2024 the data it collects in connection with the services provided to you in accordance with its available privacy policy. Paris 2024 uses this data for the purposes described in Section 2.3.
+
+·        On the IOC Partner Shop: The IOC and Paris 2024 have authorized Fanatics, Inc. ("Fanatics"), 225 Washington Street, Third Floor, Conshohocken, PA 19428, USA, to sell official Olympic products. In accordance with the Fanatics Olympic Shop privacy policy ( available here ), Fanatics shares store visitors' data with the IOC, which then shares it with Paris 2024. The IOC shares with Paris 2024 the data of store visitors who purchase a product branded Paris 2024 or related to the Paris 2024 Olympic Games, provided that you have given your consent to receive marketing communications from Paris 2024. Paris 2024 uses this data for the purposes described in Section 2.4.
+
+ 
+
+The methods of processing and sharing this data with Paris 2024 are described respectively in the Privacy Policies of these third-party sites.
+
+
+
+7. DATA RETENTION PERIOD
+
+Your data will be kept by Paris 2024 for as long as is necessary to fulfill the aforementioned purposes, and in the case of data used for Paris 2024 marketing communications, if you have consented, for a maximum of 3 years after your last interaction with us.
+
+Once this period has elapsed, your data will be archived, where applicable, for a period not exceeding the legal statute of limitations or applicable archiving obligations, or for the duration of the proceedings in the event of litigation. After these periods, the data will be destroyed by Paris 2024.
+
+We remind you that data transferred to the IOC or to other recipients as indicated in Section 5 are kept by said recipients for the periods indicated in their respective privacy policies.
+
+
+
+8. PROTECTION IN CASE OF TRANSFER
+
+Data collected by Paris 2024 as data controller, for the purposes listed in paragraphs 2 and 3 above, are protected by appropriate technical and organizational measures against the risks of unauthorized access or disclosure of your data, in accordance with applicable laws.
+
+ 
+
+When using our subcontractors, your data may be transferred to third countries outside the European Union (EU) or the European Economic Area (EEA). Where applicable, and if the third country does not benefit from an adequacy decision issued by the European Commission, these subcontractors have put in place the instruments governing such transfers in accordance with the applicable laws, including the applicable standard contractual clauses issued by the European Commission.
+
+If your data is transferred to third parties in accordance with the provisions of paragraph 5, such as the IOC or Paris 2024's partners, for the purposes for which they are responsible, these third parties determine the appropriate technical and organizational measures and, more generally, how they respect the protection of your personal data. To find out more about the measures implemented or to obtain a copy of the guarantees implemented depending on the transfer made, we invite you to make a request to the Paris 2024 Data Protection Officer at the following address: dpo@paris2024.org.
+
+ 
+
+In the specific context of authentication and management of your access to your account on the Paris 2024 website or sub-sites, please note that Paris 2024 and the IOC are jointly responsible for processing the data used for this purpose. Paris 2024 and the IOC have agreed on technical and organizational measures to protect the data collected and processed in this context.
+
+
+
+9. YOUR DATA RIGHTS
+
+In accordance with the applicable regulations, you have the following rights with regard to the personal data processed concerning you:
+
+-          The right to obtain confirmation as to whether or not data concerning you is being processed and, if so, the right to access such data, as well as the right to obtain further information about such processing.
+
+-          The right to correct any inaccurate information concerning you;
+
+-          In certain specific cases, the right to obtain the deletion of some of your personal data,
+
+-          The right to limit processing;
+
+-          The right to object to the processing of your data, for reasons relating to your particular situation, or, regardless of your particular situation, the right to object to the use of your data for marketing purposes (except when this right is legally prevented by the applicable legal basis in accordance with regulations, such as a legal obligation imposed on Paris 2024);
+
+-          The right to withdraw your consent at any time, without affecting the lawfulness of the processing if it is based on your consent, with regard to the processing or transfer of data subject to your consent;
+
+-          The right to receive the data (right to portability) that you have provided to us and/or the right to ask us to transfer it to another data controller, if the processing is based on your consent or on a contract and the processing is automated;
+
+-          If you live in France, the right to determine what happens to your data after your death. 
+
+ 
+
+Please note that Paris 2024 may, in accordance with regulations, refuse certain requests concerning some of these rights (in particular the right to erasure), for legitimate reasons such as the need to defend legal actions or the imperatives of a legal obligation to retain certain data.
+
+ 
+
+In accordance with its legal obligations, Paris 2024 has officially appointed a Data Protection Officer (hereinafter "DPO") with the CNIL. You can contact him/her by e-mail for any further information on the processing of your data or to exercise your rights at DPO@paris2024.org. If necessary, and in the event of reasonable doubt expressed by the DPO teams, you may be asked to attach a document proving your identity in order to legitimize your request.
+
+ 
+
+To exercise your rights, in particular to rectify your email address or delete your Paris 2024 account and all associated data, please complete this form on the IOC's dedicated Portal [https://privacyportal-eu.onetrust.com/webform/22395098-025a-4a86-b716-763ae9c9a4cf/787ca7a8-5c45-45f9-9c4d-29ef9d88bb1d].
+
+ 
+
+Any request for deletion will apply to all data collected by the IOC and Paris 2024 sites/applications on which you have registered, in particular: Olympics.com [http://olympics.com/], Club Paris 2024, Marathon pour tous, Generation 2024, Terre de Jeux 2024, Cultural Olympiad, the ticketing platform, the Volunteers platform, the Torch Relay platform, etc. Please note that if you have submitted your application on the Volunteers platform or if you are a Marathon Pour Tous bib holder, all linked data will be deleted and you will lose the benefit of your status. However, if you have purchased tickets, your account will be kept to enable you to receive information about your tickets.
+
+ 
+
+If you wish to exercise your right to access your personal data processed for access management and authentication purposes, you can also contact the IOC via its  Portal [https://privacyportal-eu.onetrust.com/webform/22395098-025a-4a86-b716-763ae9c9a4cf/787ca7a8-5c45-45f9-9c4d-29ef9d88bb1d].
+
+ 
+
+In the event of unresolved problems, you may lodge a complaint with the competent supervisory authority, which in France is the Commission Nationale de l'Informatique et des Libertés (CNIL).
+
+ 
+
+We also inform you that, as a French user, you can use the Bloctel list to oppose telephone canvassing.
+
+ 
+
+Furthermore, if you wish to assert your rights with the recipients of your data as listed in Section 5, it is your responsibility to contact them in accordance with the procedures indicated in their privacy policies
+
+----------------------------------------; Other;Account and personal data; https://help.paris2024.org/en-gb/contents/Privacy-policy-Paris-2024-aHSSm1RL
+lqlIsr_a-en; en; How to identify a phishing attempt?; Phishing is a fraudulent technique designed to deceive Internet users into disclosing sensitive personal data (access accounts, passwords, etc.) or banking information by pretending to be a trusted third party.
+
+
+
+Read the guidelines for identifying phishing attempts here:
+
+Paris2024-Awareness-cybersecurity.pdf#page=2 [https://medias.paris2024.org/uploads/2023/08/Paris2024-Awareness-cybersecurity.pdf#page=2]; Other;Account and personal data; https://help.paris2024.org/en-gb/contents/How-to-identify-a-phishing-attempt-lqlIsr_a
+lpd9zCaz-en; en; How can I delete my account and personnal data?; Paris 2024 is committed to respecting your rights regarding your personal data.
+
+
+
+You can send us your request to delete your account and your personal data by completing the following form:
+
+Privacy Web Form [https://privacyportal-eu.onetrust.com/webform/22395098-025a-4a86-b716-763ae9c9a4cf/978502db-bcb8-408d-8979-ccbcf674092b]
+
+
+
+Please note that this deletion request will apply to all data collected by the IOC and Paris 2024 websites/applications on which you have registered, namely: olympics.com [http://olympics.com/], Paris 2024 Club, Marathon Pour Tous, Generation 2024, Terre de Jeux, Cultural Olympiad, the ticketing platform, the Volunteers platform, the Torch Relay platform, ect.
+
+
+
+If you have submitted your application on the Volunteers platform, it will be deleted.
+
+If you have a bib for the Marathon Pour Tous, it will be deleted.
+
+However, if you have purchased tickets, your account will be kept to enable you to receive information relating to your tickets.; Other;Account and personal data; https://help.paris2024.org/en-gb/contents/How-can-I-delete-my-account-and-personnal-data-lpd9zCaz
+lkIKpKI6-en; en; Cookie Notice Paris 2024; The ORGANIZING COMMITTEE FOR THE PARIS 2024 OLYMPIC AND PARALYMPIC GAMES (hereinafter referred to as ‘Paris 2024’) is committed to ensuring the protection of your personal data when you use the Paris 2024 websites.
+
+This policy regarding the management of personal data through tracking technologies as cookies, tags and pixels (hereinafter the ‘Cookie Policy’) applies to the processing of personal data collected via the technology used on the following website (hereinafter the ‘Sites’):
+
+
+
+ * Academy: https://academie.paris2024.org [https://academie.paris2024.org/]
+
+ * Le Club & Application: https://club.paris2024.org/ 
+
+ * Sportsclub:  https://sportsclub.paris2024.org [https://sportsclub.paris2024.org/]
+
+ * Generation: https://generation.paris2024.org/
+
+ * Terre de jeux: https://terredejeux.paris2024.org/
+
+ * Olympic Torch Relay Portal: https://www.paris2024.org/fr/relais-politique-confidentialite/
+
+ * Volunteers Paris 2024 Portail: https://volontaire.paris2024.org/vportal/
+
+ * Recrutement Portal: https://rejoindre.paris2024.org/
+
+ * Olympiade Culturelle : https://culture.paris2024.org/ & https://olympiade-culturelle.paris2024.org [https://olympiade-culturelle.paris2024.org/]
+
+ * Celebrations: https://celebrations.paris2024.org [https://celebrations.paris2024.org/]
+
+ * Accessibility / Help: https://help.paris2024.org/
+
+ * Extranet Presse: https://pressoperations.paris2024.org/ 
+
+ * Espace Presse Grand Public: https://presse.paris2024.org/
+
+ * Content Library: https://contentlibrary.paris2024.org/
+
+
+
+PARIS 2024 RESERVES THE RIGHT TO MODIFY THE COOKIE POLICY, ESPECIALLY TO ACCOUNT FOR ANY CHANGES IN APPLICABLE LAW. THEREFORE, YOU ARE INVITED TO REGULARLY CONSULT THIS PAGE, THE DATE OF THE LAST UPDATE OF WHICH WILL APPEAR AT THE TOP OF THIS DOCUMENT.
+
+
+
+This dedicated tracker policy is supplemented by the information provided in each Sites cookie notices.
+
+
+1. What is a cookie?
+
+A cookie is defined as a file saved by the navigation tool of the machine in a dedicated storage space. It is stored during the consultation of a website. A cookie cannot read data from your computer's hard drive. Thanks to this text file, the website can identify the terminal in which it is deposited and memorize the information necessary for its journey.
+
+
+2. What kind of cookie do we use?
+
+Paris 2024 and other third parties may install the following cookies when you use the Site:
+
+·       Strictly necessary functional cookies: These cookies allow you to navigate our Sites and, in some cases, optimize services. They are essential for the Sites’ operation and cannot be disabled. Typically, they are configured based on your service requests, such as privacy settings, identification, or form completion. The Sites will not function normally if you block or disable them.
+
+·       NO-strictly necessary functional cookies: These enhance the customer experience on the Platform, for example, by remembering your login details, optimizing video performance, or providing information about Platform usage. You can freely choose to accept or refuse these cookies at any time. Note that certain features may be impacted if you do not accept these cookies.
+
+·       Performance and statistical cookies: These collect information that helps us improve Site performance and provide what we believe is the best user experience. They allow us to count visits and traffic sources on the Sites, measure and enhance performance, and build a profile of your interests and browsing habits. This personalization aims to offer you the most relevant content. By not allowing these cookies, we won’t have insights into Site usage and performance, and your experience may be less personalized and relevant.
+
+·       Marketing cookies: These personalize online advertising based on your browsing activity and location when accessing a site. They include cookies set by our advertising partners. Paris 2024 uses them (i) to measure traffic to our digital Platforms and customize services, and (ii) to create and deliver relevant ads and content on our platforms and other sites. If you don’t authorize these cookies, you’ll still see online ads and content, but they won’t align with your interests.
+
+You can review the details of these cookies by category and manage the related settings in the preference centre of the Consent Management Platform (CMP) tool.
+
+
+3. Cookie Implementation
+
+The following cookies are implemented on our site. Optional cookies will only be deposited after obtaining your consent through the Tracker Management Tool (referred to as “CMP” below).
+
+ 
+
+COOKIE NAME
+
+CATEGORIZATION / TYPE
+
+LIFETIME
+
+OPTIONAL (YES/NO)
+
+1
+
+aliyungf_tc
+
+Fonctionnel
+
+Session
+
+NON
+
+2
+
+acw_tc
+
+Fonctionnel
+
+1 heure
+
+NON
+
+3
+
+PHPSESSID
+
+Fonctionnel
+
+Session
+
+NON
+
+4
+
+gig_canary
+
+Fonctionnel
+
+Session
+
+NON
+
+5
+
+gig_canary_ver
+
+Fonctionnel
+
+Session
+
+NON
+
+6
+
+gig_bootstrap_4
+
+Fonctionnel
+
+1 an
+
+NON
+
+7
+
+glt_4
+
+Fonctionnel
+
+1 heure
+
+NON
+
+8
+
+gmid
+
+Fonctionnel
+
+1 an
+
+NON
+
+9
+
+ucid
+
+Fonctionnel
+
+1 an
+
+NON
+
+10
+
+hasGmid
+
+Fonctionnel
+
+Session
+
+NON
+
+11
+
+gig_loginToken
+
+Fonctionnel
+
+1 an
+
+NON
+
+12
+
+apiDomain
+
+Fonctionnel
+
+1 an
+
+NON
+
+
+
+For more information and to modify your choices, refer to the descriptions provided within the CMP tool. 
+
+
+4. Expiration time
+
+Cookies may be stored on your browser or on your computer's hard drive for as long as you keep that browser active (for session cookies), or for such longer period as permitted by law (for persistent cookies)
+
+The cookies retention period can be limited to a few hours or a year at most. For more information, see the cookie settings available on the platform and the previous cookies implementation description tab.
+
+
+5. Cookie preference management
+
+You can freely decide to accept or refuse cookies, and modify these criteria at any time, in particular by clicking on the “Manage my cookie preferences” tab of the Consent Management Platform (CMP) on the website or the Application. Most browsers also allow you to disable cookies or to be alerted when a cookie is issued. To learn more, please consult your browser's help menu. Regardless of the settings you select, you can choose to disable or re-enable cookies at any time.
+
+To guide you in the process of limiting your online footprint, we invite you to consult the following page: User trackers advice provided by the CNIL (French Data Supervision Authority).
+
+
+
+For more information on how Paris 2024 manages your personal data, please consult our Privacy Policy. [https://help.paris2024.org/en-gb/contents/Privacy-policy-Paris-2024-aHSSm1RL]; Other;Account and personal data; https://help.paris2024.org/en-gb/contents/Cookie-Notice-Paris-2024-lkIKpKI6
+lqJ-YhoP-en; en; I forgot the password to one of my Paris 2024 account, what shoud I do?; You can access your account using the login details (e-mail address and password) you entered when registering on one of the sites.
+
+
+
+If you forget your password, please follow the steps below to recover access to your account:
+
+
+
+ * On the login page click on the I forgot my password link
+
+ * Enter the email address you used to register for Paris 2024 and we will send you a reset link
+
+ * When creating your new password we recommend you follow the guidelines for setting a strong password here: Paris2024-Awareness-cybersecurity.pdf [https://medias.paris2024.org/uploads/2023/08/Paris2024-Awareness-cybersecurity.pdf]; Other;Account and personal data; https://help.paris2024.org/en-gb/contents/I-forgot-the-password-to-one-of-my-Paris-2024-account-what-shoud-I-do-lqJ-YhoP

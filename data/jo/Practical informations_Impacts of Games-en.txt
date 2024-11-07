@@ -1,0 +1,226 @@
+arILmuKa-en; en; Which are the security perimeters during the opening ceremony?; Two Types of Security Perimeters from July 18 to July 26 includes:
+
+ 1. The Anti-Terrorist Protection Perimeter (SILT, in grey):
+
+- Pedestrians and cyclists (bikes, cargo bikes, scooters) will be allowed access to this perimeter, provided they have a digital pass (Pass-Jeux) or a ticket granting them access to the ceremony.
+
+ * Residents, professionals, and visitors (with hotel, museum, or restaurant reservations, etc.) will need to apply for a digital pass.
+
+ * On July 26, spectators with a ticket and accredited persons for Paris 2024 do not need to apply for a digital pass (Pass-Jeux).
+
+- Vehicle access will be prohibited, except in rare cases and subject to prior obtaining of a digital pass (Pass-Jeux). On July 26, from 1 pm, no vehicle traffic will be allowed, except for security and emergency services.
+
+
+
+ 2. The Motorized Traffic Ban Perimeter (in red):
+
+- Pedestrians and cyclists (bikes, cargo bikes, scooters) can move freely. No need to apply for a digital pass (Pass-Jeux).
+
+- Motorized traffic will be prohibited, except for rare exceptions. Access to this perimeter by vehicle will not require a prior digital pass but will be subject to presenting documents at security checkpoints. On July 26 from 1 pm, only security and emergency services will be allowed access.
+
+After consultations, the Prefecture of Police has established a list of user categories permitted as exceptions to access the red and grey (SILT) perimeters by vehicle before the event.
+
+
+
+Please note that the Games Pass is not required for ticket holders wishing to access their competition venue.
+
+
+
+Public Transport:
+
+From July 18, metro stations within the grey (SILT) perimeters will be closed to the public, and bus routes crossing these perimeters will be diverted.
+
+On the day of the Ceremony, no buses will be allowed within the perimeters.
+
+Regarding train stations, Gare d'Austerlitz is within the red perimeter, so pedestrian access will be maintained. Gare de Lyon is not included in the perimeter.
+
+
+
+Bridge Access:
+
+At the request of Paris 2024, the installation of structures on the bridges will result in their gradual closure from July 8. To facilitate passage between the left and right banks, several bridges will remain open throughout the SILT activation period on the parade route:
+
+ * Pont d’Iéna (closed from July 12 to 16 and from July 22);
+
+ * Pont des Invalides;
+
+ * Passerelle Sédar-Senghor;
+
+ * Pont des Arts;
+
+ * Pont Neuf;
+
+ * Pont au Change;
+
+ * Pont de la Tournelle;
+
+ * Pont Louis-Philippe;
+
+ * Pont Notre-Dame and the Petit Pont Cardinal Lustiger;
+
+ * Pont de Sully (subject to ongoing works after the January 31 accident).
+
+Additionally, all bridges upstream of Pont d’Austerlitz and downstream of Pont d’Iéna remain open. On the day of the event, some bridges will remain open for pedestrians to cross from the right bank to the left bank.
+
+Crossing will no longer be possible from 7 pm, 30 minutes before the ceremony starts. Pont du Carrousel will be closed from July 8. Pont de l'Alma will be partially closed from July 15 to 24 and fully closed on July 25 and 26. Pont Royal will be closed from July 16 to 18 and then partially reopened.
+
+
+
+Dates and impacts on public transport, bridge access for residents, public establishments, and other profiles are detailed on the Prefecture of Police website:
+
+For more information on the security perimeters during the Opening Ceremony of the Paris 2024 Olympic Games, please visit:
+
+https://www.prefecturedepolice.interieur.gouv.fr/la-securite-des-jeux-2024/des-jeux-securises-pour-tous/ceremonie-douverture-des-jo-2024-un-dispositif-de-securite-adapte-pour-garantir-la-securite-de-tous
+
+
+
+For more information on digital passes (Pass-Jeux), please visit:
+
+https://www.pass-jeux.gouv.fr/en/about/
+
+
+
+For any questions, you can contact the Prefecture of Police:
+
+By email: pp-comjop@interieur.gouv.fr
+
+You can contact the Public Information and Inquiry Assistance Unit of the Police Prefecture at the following number: 34 30 (open Monday to Friday from 8:30 AM to 6:00 PM).; Practical informations;Impacts of Games; https://help.paris2024.org/en-gb/contents/Which-are-the-security-perimeters-during-the-opening-ceremony-arILmuKa
+YtjacEs_-en; en; How can you find all the practical information you need to plan your day-to-day life?; You can find all the practical information you need to anticipate your day-to-day life below.
+
+
+
+➡For information on the installation of temporary infrastructures [https://anticiperlesjeux.gouv.fr/en/montages-demontages-sites-olympiques-paralympiques-temporaires]
+
+
+
+
+
+➡ For information on the security perimeters [https://anticiperlesjeux.gouv.fr/en/etapes-cles/perimetres-securisation-sites-competition-ile-france] in place
+
+
+
+➡To apply for a digital pass (Pass Jeux) to enter a security perimeter:
+
+https://www.pass-jeux.gouv.fr/en/
+
+
+
+➡To plan your commute before and during the Games:
+
+-Interactive map : https://anticiperlesjeux.gouv.fr/en/
+
+-The day-to-day presentation of the impact of the Olympic and Paralympic Games on public spaces, day by day, click here (in French) [https://experience.arcgis.com/experience/094d75c41f184866898251f02bd4c674/]
+
+
+
+➡To apply for a digital pass (Pass Jeux) to enter a security perimeter:
+
+https://www.pass-jeux.gouv.fr/en/
+
+
+
+➡To use public transport in the Île-de-France region:
+
+https://www.iledefrance-mobilites.fr/en/dossiers/paris-2024-olympic-paralympic-games
+
+
+
+➡For everything you need to know about the Games in your area:
+
+ * Paris:https://www.paris.fr/en/2024-games
+
+ * Seine-Saint-Denis: https://ville-saint-denis.fr/jeux-olympiques-paralympiques
+
+ * Plaine Commune: https://plainecommune.fr/paris2024/vos-services-publics-pendant-les-jeux/
+
+ * City of Lille : https://www.lesjeux.lillemetropole.fr/en; Practical informations;Impacts of Games; https://help.paris2024.org/en-gb/contents/How-can-you-find-all-the-practical-information-you-need-to-plan-your-day-to-day-life-YtjacEs_
+ar2Eq2bC-en; en; What is Pass-Jeux (QR code)? Who needs one?; In some cases to cross the security perimeters that will be set up in anticipation of the opening ceremony of the Paris 2024 Olympic Games, from July 18 to 26 includes, a Pass-Jeux (QR code) will be essential.
+
+As a reminder, the Pass-Jeux (QR code) is an individual digital pass (QR code), issued by the Prefecture of Police, for accessing the security perimeters around the opening ceremony, competition venues, and the para-cycling events in Seine-Saint-Denis.
+
+
+
+In many situations, the Pass-Jeux is not necessary.
+
+
+
+To ensure whether you need a QR code, we invite you to consult the following information:
+
+https://www.prefecturedepolice.interieur.gouv.fr/la-securite-des-jeux-2024/des-jeux-securises-pour-tous/ceremonie-douverture-des-jo-2024-un-dispositif-de-securite-adapte-pour-garantir-la-securite-de-tous
+
+
+
+If you need to apply for a Pass-Jeux (QR code), you can do so on the official Pass-Jeux website:
+
+https://www.pass-jeux.gouv.fr [https://www.pass-jeux.gouv.fr/]
+
+
+
+For any additional questions, we invite you to contact the Prefecture of Police via the contact form: https://www.pass-jeux.gouv.fr/contact/
+
+You can contact the Public Information and Inquiry Assistance Unit of the Police Prefecture at the following number: 34 30 (open Monday to Friday from 8:30 AM to 6:00 PM).; Practical informations;Impacts of Games; https://help.paris2024.org/en-gb/contents/What-is-Pass-Jeux-QR-code-Who-needs-one-ar2Eq2bC
+asMlt4pc-en; en; What are the safety perimeters around competition sites?; Perimeters are established to ensure the safety of spaces, guaranteeing the running of celebrations and competitions, and allowing social, economic, and cultural activities to continue under the most satisfactory conditions possible.
+
+The security arrangements have been developed with the aim of preserving activities and protecting pedestrian and cyclist flows, while taking into account the potential risk of terrorism.
+
+
+
+Types of Perimeters:
+
+For each site, four types of perimeters are planned with the principle: the further from the site, the less restrictive it is.
+
+
+
+ * Grey Perimeter: The organiser's perimeter is activated from the construction of the site until its dismantling.
+
+It is deliberately very contained (tight around the sites) to limit the impact on local residents.
+
+Access to these spaces is strictly regulated: only persons and vehicles duly authorised and accredited by the organiser, Paris 2024, or in possession of tickets during the events, will be able to access the sites.
+
+
+
+ * Black Perimeter:This is the protection perimeter (or SILT - Security, Insecurity and Counter-Terrorism).
+
+It is implemented during major events and encompasses the organiser's perimeter and the competition site.
+
+Only spectators with tickets and persons accredited by the Olympic and Paralympic Games Organising Committee (COJOP) will be able to access it, along with residents who are occasionally concerned. To access this perimeter, pat-downs and bag searches will be organised.
+
+
+
+ * Red Perimeter: This perimeter involves a ban on motorised road traffic, except for specific exemptions.
+
+The red perimeter is a protection perimeter where motorised access is prohibited, except for specific authorisations. Access remains possible for pedestrians, bicycles, and scooters without any justification.
+
+For authorised persons, access to this perimeter will require a digital pass. To obtain their pass, each authorised person must register in advance on the digital platform https://www.pass-jeux.gouv.fr/ (open since 13 May).
+
+People without internet access can register at the Paris district town halls, which will complete the process on their behalf.
+
+
+
+ * Blue Perimeter: The blue perimeter is a regulation perimeter for motorised road traffic.
+
+Access to the perimeter will therefore be allowed with justification of a legitimate reason and after control by law enforcement. Pedestrians, bicycles, and scooters can access without restriction.
+
+Note: The justifications for entering the blue perimeter will be free, unlike the digital pass (Pass-Jeux) required to enter the red perimeter.
+
+
+
+For more information on the security perimeters during the Olympic and Paralympic Games in Paris 2024:
+
+https://www.prefecturedepolice.interieur.gouv.fr/mission/des-jeux-securises-pour-tous/les-perimetres-de-securite-autour-des-sites-olympiques-et-paralympiques
+
+https://www.paris.fr/pages/perimetres-de-securite-pendant-les-jeux-de-paris-2024-les-reponses-a-vos-questions-25632
+
+
+
+For practical advice on anticipating your travel in Île-de-France during the Olympic and Paralympic Games, you can consult the platform set up by the Ministry of Transport:
+
+https://anticiperlesjeux.gouv.fr/carte-interactive-impacts-deplacements-ile-france
+
+
+
+
+
+For any questions about the Pass-Jeux, you can contact the Prefecture of Police via the web form: https://www.pass-jeux.gouv.fr/contact/
+
+You can contact the Public Information and Inquiry Assistance Unit of the Police Prefecture at the following number: 34 30 (open Monday to Friday from 8:30 AM to 6:00 PM).; Practical informations;Impacts of Games; https://help.paris2024.org/en-gb/contents/What-are-the-safety-perimeters-around-competition-sites-asMlt4pc

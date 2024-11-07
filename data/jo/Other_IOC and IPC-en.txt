@@ -1,0 +1,46 @@
+OnocDuRN-en; en; Who is the President of Paris 2024?; The president of Paris 2024 is Tony Estanguet, a French athlete and Olympic medalist.; Other;IOC and IPC; https://help.paris2024.org/en-gb/contents/Who-is-the-President-of-Paris-2024-OnocDuRN
+OnnUDhIV-en; en; What is the IPC (International Paralympic Committee)?; The International Paralympic Committee (IPC) is the international governing body for sports practised by athletes with motor and visual impairments. Its role is to encourage its members in the development of para sports, ensure the successful delivery of the Paralympic Games and other high-level competitions for athletes, and act as the international federation for ten para sports.
+
+For over 30 years, the IPC has been working towards a more inclusive world through para sports.
+
+It aims to enable para athletes to achieve sporting excellence and be a source of inspiration and enthusiasm for the world.
+
+
+
+For more information, please visit:
+
+https://www.paris2024.org/en/ipc/ [https://olympics.com/en/paris-2024/committee/games-stakeholder/international-paralympic-committee]; Other;IOC and IPC; https://help.paris2024.org/en-gb/contents/What-is-the-IPC-International-Paralympic-Committee-OnnUDhIV
+OnnLL0je-en; en; What is the IOC (International Olympic Committee)?; The International Olympic Committee (IOC) is the supreme authority of the Olympic movement. It coordinates the relationships and actions of all the members that make up the Olympic movement, including:
+
+
+ * National Olympic Committees (NOCs)
+
+ * International Federations (IFs)
+
+ * Athletes
+
+ * Organising Committees like Paris 2024
+
+ * IOC TOP partners
+
+ * Broadcasters of the Games
+
+ * United Nations organisations, and more
+
+
+
+This multitude of stakeholders is mobilised to fulfil several missions, including:
+
+
+
+ * Ensuring the regular celebration of the Summer and Winter Olympic Games and preserving their unique character
+
+ * Promoting olympic values, especially through sports
+
+ * Placing athletes at the heart of the Olympic movement
+
+
+
+For more information, please visit :
+
+https://www.paris2024.org/en/ioc/ [https://olympics.com/ioc/paris-2024]; Other;IOC and IPC; https://help.paris2024.org/en-gb/contents/What-is-the-IOC-International-Olympic-Committee-OnnLL0je

@@ -1,0 +1,53 @@
+OnkU4ILN-en; en; What is the difference between the Paris 2024 Club and the Marathon Pour Tous application?; The Paris 2024 Club offers sneak peeks of ticketing information, ceremonies, athlete meetups, and tours of Olympic sites.
+
+On the flip side, the Marathon Pour Tous app is a 100% running application.
+
+It tracks your running activities and allows you to take part in regular sports challenges with rewards up for grabs. The Marathon Pour Tous app also provides an opportunity to join in the celebration with the Connected Marathon Pour Tous!
+
+
+
+For more information, please visit:
+
+https://marathonpourtous.paris2024.org/en/; Paris 2024 Club / Marathon Pour Tous;Paris 2024 Club;General questions; https://help.paris2024.org/en-gb/contents/What-is-the-difference-between-the-Paris-2024-Club-and-the-Marathon-Pour-Tous-application-OnkU4ILN
+Ono9L1YE-en; en; What are the advantages of Paris 2024 Club?; As a member of the Olympic and Paralympic community, you have access to:
+
+ * exclusive information sent via email, such as ticket opening dates, details about the Olympic torch relay, and volunteer programme information
+
+ * special offers and unique benefits across France, including flag tours, visits to Olympic and Paralympic venues, athlete meet-ups, and Paris 2024-associated events
+
+ * exceptional rewards to experience during the Games, such as privileged seating for select events, discovery of outstanding sites, and many more surprises to come until 2024
+
+ * Exceptional rewards to enjoy during the Games, such as exclusive seats for certain events, the discovery of outstanding venues, and many more surprises to come until the Games; Paris 2024 Club / Marathon Pour Tous;Paris 2024 Club;General questions; https://help.paris2024.org/en-gb/contents/What-are-the-advantages-of-Paris-2024-Club-Ono9L1YE
+dCKjWkeD-en; en; How to stay informed about the latest news on the Games; To stay informed about the latest news regarding the Olympic and Paralympic Games, as well as the extra-sporting and cultural events associated with the event, we invite you to subscribe to the Club's newsletter.
+
+To subscribe to the Club's newsletter, become a member:
+
+https://club.paris2024.org/en/home
+
+
+
+
+
+An alternative to stay informed is to download the official Paris Games app. The news are regularly updated on the app.
+
+Download the Game’s mobile app by visiting:
+
+https://olympics.com/en/paris-2024/download-olympics-mobile-app; Paris 2024 Club / Marathon Pour Tous;Paris 2024 Club;General questions; https://help.paris2024.org/en-gb/contents/How-to-stay-informed-about-the-latest-news-on-the-Games-dCKjWkeD
+jRl5-HCg-en; en; How do I change the language of the communications addressed to me?; You can change your language preferences by logging into your Paris 2024 account via this link: preferences.paris2024.org [https://connect.paris2024.org/oidc/OP_LoginPage.php?client_id=sT8gSMfsPjiH4h007r1oak_3&amp;inscription=en]; Paris 2024 Club / Marathon Pour Tous;Paris 2024 Club;General questions; https://help.paris2024.org/en-gb/contents/How-do-I-change-the-language-of-the-communications-addressed-to-me-jRl5-HCg
+Ono8Dh68-en; en; How do I join the Paris 2024 Club?; The registration process for Paris 2024 Club is very simple.
+
+
+
+Simply click on "Sign In" at the top right of this page:
+
+https://club.paris2024.org/en/home
+
+
+
+ * Provide your information
+
+ * Validate
+
+ * You will receive a verification link via e-mail
+
+ * Sign the Paris 2024 Club regulations, and you're all set!; Paris 2024 Club / Marathon Pour Tous;Paris 2024 Club;General questions; https://help.paris2024.org/en-gb/contents/How-do-I-join-the-Paris-2024-Club-Ono8Dh68
