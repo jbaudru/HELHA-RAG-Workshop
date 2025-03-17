@@ -1,9 +1,11 @@
-faiss-cpu==1.7.4
-openai
-InstructorEmbedding==1.0.1
-matplotlib==3.7.2
+faiss-cpu
+openai==0.28
+InstructorEmbedding
+matplotlib
 transformers
-sentence-transformers
+sentence-transformers==2.2.2
+huggingface-hub==0.25.2
 numpy
 scikit-learn
-tqdm
+nltk
+torch
