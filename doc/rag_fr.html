@@ -7521,17 +7521,17 @@ a.anchor-link {
 <p>On peut considérer les LLM comme des "perroquets stochastiques" capables de produire du texte en fonction des entrées reçues. Ils sont entraînés sur de vastes corpus de données textuelles et apprennent les structures et motifs du langage humain.</p>
 <p>Les grands modèles de langage (LLM) apprennent les propriétés statistiques de la langue en prédisant le mot suivant dans une séquence, basé sur le contexte des mots précédents.</p>
 <h4 id="Tokenisation">Tokenisation<a class="anchor-link" href="#Tokenisation">¶</a></h4><p>Les tokens sont des unités de texte atomiques, telles que des mots, sous-mots ou caractères, séparés par des espaces ou des signes de ponctuation, utilisés comme blocs de construction fondamentaux pour les tâches de traitement du langage naturel.</p>
-<p><img alt="Token Image" src="img/token.png"/></p>
+<img alt="Token Image" src="../img/token.png"/>
 <p><a href="https://observablehq.com/@simonw/gpt-tokenizer">https://observablehq.com/@simonw/gpt-tokenizer</a></p>
 <h4 id="Repr%C3%A9sentations-vectorielles-(embeddings)">Représentations vectorielles (embeddings)<a class="anchor-link" href="#Repr%C3%A9sentations-vectorielles-(embeddings)">¶</a></h4><p>Les embeddings sont des représentations vectorielles denses de mots ou de tokens, qui capturent la signification sémantique des mots, où les mots similaires sont plus proches les uns des autres.</p>
-<p><img alt="Embeddings Image" src="img/embeddings.png"/></p>
+<img alt="Embeddings Image" src="../img/embeddings.png"/>
 <p><a href="https://projector.tensorflow.org/">https://projector.tensorflow.org/</a></p>
-<p><img alt="Embeddings 2 Image" src="img/embeddings2.webp"/></p>
+<img alt="Embeddings 2 Image" src="../img/embeddings2.webp"/>
 <p><a href="https://arize.com/blog-course/embeddings-meaning-examples-and-how-to-compute/">https://arize.com/blog-course/embeddings-meaning-examples-and-how-to-compute/</a></p>
 <h4 id="Architecture-du-Transformer">Architecture du <em>Transformer</em><a class="anchor-link" href="#Architecture-du-Transformer">¶</a></h4><p>La plupart des modèles actuels sont basés sur l'architecture du transformateur, qui est un modèle d'apprentissage profond conçu pour traiter des données séquentielles, telles que du texte.</p>
 <p>L'architecture de transformateur est composée d'un encodeur et d'un décodeur.
 L'encodeur traite la séquence d'entrée et génère une représentation de l'entrée, les embeddings d'entrée. Le décodeur prend les encastrements de sortie et génère la séquence de sortie.</p>
-<p><img alt="Transformer Image" src="img/transformer.png"/></p>
+<img alt="Transformer Image" src="../img/transformer.png"/>
 <p><a href="https://jalammar.github.io/illustrated-transformer/">https://jalammar.github.io/illustrated-transformer/</a></p>
 <h3 id="Limites-des-LLMs">Limites des LLMs<a class="anchor-link" href="#Limites-des-LLMs">¶</a></h3><p>Avant <strong>gpt4o</strong>, la principale limite des LLMs est qu'ils <strong>ne étaient pas en mesure d'accéder à des informations externes</strong>.
 Cela signifie qu'ils ne pouvaient générer du texte qu'à partir des données sur lesquelles ils ont été entrainé.</p>
@@ -7548,7 +7548,7 @@ Ils répondent avec le plus proche texte qu'ils ont vu lors de l'entraînement, 
 </ul>
 <h3 id="Retrieval-Augmented-Generation-(RAG)-pour-les-models-LLM">Retrieval-Augmented Generation (RAG) pour les models LLM<a class="anchor-link" href="#Retrieval-Augmented-Generation-(RAG)-pour-les-models-LLM">¶</a></h3><p><strong>Retrieval-Augmented Generation (RAG)</strong>  est une technique d'IA qui combine la recherche d'informations et la génération de texte.</p>
 <p>Cette approche améliore la précision et la fiabilité du contenu généré par l'IA en le fondant sur des informations pertinentes et actualisées provenant de sources externes, souvent des documents ou des bases de données spécialisées.</p>
-<p><img alt="Framework Image" src="img/framework_1.png"/></p>
+<img alt="Framework Image" src="../img/framework_1.png"/>
 <h4 id="Exemple-d'utilisation-de-RAG">Exemple d'utilisation de RAG<a class="anchor-link" href="#Exemple-d'utilisation-de-RAG">¶</a></h4><p><strong>Gestion des données internes</strong></p>
 </div>
 </div>
@@ -7563,7 +7563,7 @@ Ils répondent avec le plus proche texte qu'ils ont vu lors de l'entraînement, 
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">IPython.display</span> <span class="kn">import</span> <span class="n">Video</span>
 
-<span class="n">Video</span><span class="p">(</span><span class="s2">"img/demo_rag.mp4"</span><span class="p">)</span>
+<span class="n">Video</span><span class="p">(</span><span class="s2">"../img/demo_rag.mp4"</span><span class="p">)</span>
 </pre></div>
 </div>
 </div>
@@ -7576,7 +7576,7 @@ Ils répondent avec le plus proche texte qu'ils ont vu lors de l'entraînement, 
 <div class="jp-OutputArea-child jp-OutputArea-executeResult">
 <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[67]:</div>
 <div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html" tabindex="0">
-<video controls="" src="img/demo_rag.mp4">
+<video controls="" src="../img/demo_rag.mp4">
       Your browser does not support the <code>video</code> element.
     </video>
 </div>
@@ -10067,7 +10067,7 @@ max_seq_length  512
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
 <p>Une autre technique consiste à relier les phrases de chaque document entre elles selon leurs relations pour former une structure de données qu'on appelle un <strong>Knowledge Graph</strong>.</p>
-<p><img alt="Embeddings 2 Image" src="img/knowledge-graph-2.png"/></p>
+<img alt="Embeddings 2 Image" src="../img/knowledge-graph-2.png"/>
 </div>
 </div>
 </div>
